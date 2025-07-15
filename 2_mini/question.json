@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which programming language was developed by Sun Microsystems in 1995?",
+      "correct_answer": "Java",
+      "incorrect_answers": [
+        "Python",
+        "Solaris OS",
+        "C++"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What was the first Android version specifically optimized for tablets?",
+      "correct_answer": "Honeycomb",
+      "incorrect_answers": [
+        "Eclair",
+        "Froyo",
+        "Marshmellow"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+      "correct_answer": "Shamir",
+      "incorrect_answers": [
+        "Secure",
+        "Schottky",
+        "Stable"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+      "correct_answer": "Quantum Teleportation",
+      "incorrect_answers": [
+        "Super Dense Coding",
+        "Quantum Entanglement",
+        "Quantum Programming"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What is the domain name for the country Tuvalu?",
+      "correct_answer": ".tv",
+      "incorrect_answers": [
+        ".tu",
+        ".tt",
+        ".tl"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+      "correct_answer": "44.1 kHz",
+      "incorrect_answers": [
+        "32.0 kHz",
+        "1.5 MHz",
+        "20.5 kHz"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [
+        "Microsoft",
+        "Atari",
+        "Commodore"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": [
+        "Intel 486SX",
+        "TMS 1000",
+        "AMD AM386"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of the following is the oldest of these computers by release date?",
+      "correct_answer": "TRS-80",
+      "incorrect_answers": [
+        "Commodore 64",
+        "ZX Spectrum",
+        "Apple 3"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ]
+    }
+  ]
+}

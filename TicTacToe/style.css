@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #222;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #fff;
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn {
+    height: 100px;
+    width: 100px;
+    font-size: 3rem;
+    background: #feaf;
+    color: rgb(177, 0, 0);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.winner {
+    color: rgb(81, 255, 0);
+    padding-block: 2rem;
+    font-size: 2rem;
+}
+
+.reset_button {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1rem;
+    background: #879e00;
+}
